@@ -1,0 +1,2 @@
+# StaticHWID
+Static HWID changer
